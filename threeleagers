@@ -1,0 +1,11 @@
+let a=200,b=300,c=400
+if(a>b & a>c){
+
+console.log("a is leages")
+}
+elseif(b>a & b>c){
+console.log("b is leages")
+}
+else {
+console.log("c is leages")
+}
